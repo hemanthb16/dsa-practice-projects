@@ -1,0 +1,12 @@
+# Array is a store of multiple elements with same data type.
+# Array will be stored by index. 
+# Ex: arr = [10, 20, 30, 50]
+#  index  = [0, 1, 2, 3]
+
+Basics:
+# Initialization
+# Access 
+# Update 
+# Insert 
+# Delete
+# Traverse
