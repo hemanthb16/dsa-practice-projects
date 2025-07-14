@@ -1,2 +1,2 @@
 # dsa-practice-projects
-Mini Projects and problems for learning DSA and coding
+This repo contains my personal journey of learning **Data Structures and Algorithms (DSA)** through mini projects and coding
