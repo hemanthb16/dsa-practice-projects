@@ -1,0 +1,6 @@
+# This contains all basic math operations on array
+
+# Max element in array
+# Min element in array
+# Sum of elements in array
+# Average of elements in array
