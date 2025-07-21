@@ -1,0 +1,2 @@
+# Find the second max element
+# Find the third max element 
