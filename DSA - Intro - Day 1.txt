@@ -1,0 +1,27 @@
+# DSA 
+
+Q) What is DSA ?
+A) Data structures - how we store the data
+   Algorithms - how we operate on that data
+
+# Time Complexity
+ -> Measures how much time an algorithm runs as input size grows
+ -> expressed by Big (O) notation
+Ex:
+ -> print("hi")  - O(1)
+ -> for i in n:  - O(n)
+ -> nested loops - O(n square), O(n cube) .. 
+ -> Binary search - O(logn)
+ -> Merge sort   - O (n logn)
+
+# Space complexity 
+-> Measures how much memory an algorithm uses
+-> includes variables, data structures and function call stack(recursion)
+Ex: 
+-> constant variables   - O(1)
+-> size of array n      - O(n)
+-> Recursive call stack (depth n) - O(n)
+
+# Recursion & Complexity
+* Refer corresponding coding file
+   
