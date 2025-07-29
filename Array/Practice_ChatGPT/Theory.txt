@@ -1,0 +1,29 @@
+# Chat GPT array learning practice programs
+
+# Reverse an array
+- take two pointers to store left and right indexes
+- iterate array
+- will take left index element and kept in right index element and vise versa (swapping)
+- same process needs to done for every index until we reach middle of the array (until left < right true)
+Time: O(N) 
+Space: O(1)
+
+# check array is sorted
+- iterate array
+- take is_sorted inbuild function from python as True
+- check next element is less than previous element
+- break and conclude array is not sorted and assign is_sorted = False
+- otherwise array is sorted
+Time: O(N) 
+Space: O(1)
+
+# remove duplicates from sorted array 
+- take 1 pointer(write) to keep index of distinct array (this index will use to replace distinct values)
+- iterate from second element as first element is always distinct (read index = 1 and write index = 1)
+- verify present element and previous element are not equal, if then replace write index element with read index       element 
+- increase write index by 1, otherwise write index will be same 
+- repeat same process till end of the array
+- take arr till write index as write index array will have distinct values (arr = arr[:write])
+
+Time: O(N) 
+Space: O(1)
